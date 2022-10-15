@@ -1,0 +1,22 @@
+Apr 19, 2022 12:42:28 PM addatude.app.server.Server readInUserRecords
+INFO: Parsing the Password File
+Apr 19, 2022 12:42:33 PM addatude.app.server.ClientThread setUpThread
+INFO: Handling client at /127.0.0.1:63800
+Apr 19, 2022 12:42:40 PM addatude.app.server.ClientThread run
+INFO: Received LocalLocationRequest from Client at /127.0.0.1:63800
+Apr 19, 2022 12:42:40 PM addatude.app.server.ClientThread run
+INFO: Sending LocationResponse to client at /127.0.0.1:63800
+Apr 19, 2022 12:42:58 PM addatude.app.server.ClientThread run
+INFO: Received NewLocation from Client at /127.0.0.1:63800
+Apr 19, 2022 12:42:58 PM addatude.app.server.ClientThread run
+INFO: Client at /127.0.0.1:63800 submitted location record with 25, 1.1, 2.2, Smith: Test, Test
+Apr 19, 2022 12:42:58 PM notifi.app.server.NoTiFiServer sendLocation
+INFO: Received LocationRecord from AddATude server
+Apr 19, 2022 12:42:58 PM notifi.app.server.NoTiFiServer sendLocation
+INFO: Sending LocationAddition to all registered clients
+Apr 19, 2022 12:42:58 PM addatude.app.server.ClientThread run
+INFO: Sending LocationResponse to client at /127.0.0.1:63800
+Apr 19, 2022 12:43:04 PM addatude.app.server.ClientThread run
+INFO: Received LocalLocationRequest from Client at /127.0.0.1:63800
+Apr 19, 2022 12:43:04 PM addatude.app.server.ClientThread run
+INFO: Sending LocationResponse to client at /127.0.0.1:63800
